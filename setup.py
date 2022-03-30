@@ -54,8 +54,8 @@ setup(
     description='A python interface for Whatsapp Web',
 
     # Author details
-    author='Mukul Hase',
-    author_email='mukulhase@gmail.com',
+    author='LitRHap',
+    author_email='jinnamai999@gmail.com',
     include_package_data=True,
 
     # Choose your license
